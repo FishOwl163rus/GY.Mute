@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ATS\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ATS\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_GY.Mute.-896537865.00" t="ExcludeRecursive" />
+    <e p="E:\JetBrains Rider Projects\GY.Mute" t="IncludeFlat">
+      <e p="GY.Mute" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Commands" t="Include">
+          <e p="CommandMute.cs" t="Include" />
+          <e p="CommandUnMute.cs" t="Include" />
+          <e p="CommandVoiceMute.cs" t="Include" />
+          <e p="CommandVoiceUnMute.cs" t="Include" />
+        </e>
+        <e p="COnfig.cs" t="Include" />
+        <e p="GY.Mute.csproj" t="IncludeRecursive" />
+        <e p="JsonHelper.cs" t="Include" />
+        <e p="Mute.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="UserData.cs" t="Include" />
+        <e p="VoicePatch.cs" t="Include" />
+      </e>
+      <e p="GY.Mute.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

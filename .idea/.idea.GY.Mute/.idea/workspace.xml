@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a08e31b6-5ec9-4c33-b99f-1b1221e89655" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GY.Mute/JsonHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.Mute/Config.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5A544914-3CB1-457D-B72F-1F273BC817A2/41/ff487c83/SteamConnectedClientBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.Mute/VoicePatch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.Mute/Commands/CommandVoiceUnMute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5A544914-3CB1-457D-B72F-1F273BC817A2/bf/7a0058d2/SteamChannel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.Mute/Commands/CommandUnMute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.Mute/Commands/CommandVoiceMute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.Mute/Mute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.Mute/Commands/CommandMute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.Mute/UserData.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GY.Mute/COnfig.cs" />
+        <option value="$PROJECT_DIR$/GY.Mute/Config.cs" />
+        <option value="$PROJECT_DIR$/GY.Mute/JsonHelper.cs" />
+        <option value="$PROJECT_DIR$/GY.Mute/UserData.cs" />
+        <option value="$PROJECT_DIR$/GY.Mute/VoicePatch.cs" />
+        <option value="$PROJECT_DIR$/GY.Mute/Commands/CommandUnMute.cs" />
+        <option value="$PROJECT_DIR$/GY.Mute/Commands/CommandVoiceUnMute.cs" />
+        <option value="$PROJECT_DIR$/GY.Mute/Commands/CommandMute.cs" />
+        <option value="$PROJECT_DIR$/GY.Mute/Commands/CommandVoiceMute.cs" />
+        <option value="$PROJECT_DIR$/GY.Mute/Mute.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mImC1sy37ZyFMTVtBsFJV7JhSA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a08e31b6-5ec9-4c33-b99f-1b1221e89655" name="Default Changelist" comment="" />
+      <created>1609189350413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609189350413</updated>
+      <workItem from="1609189356030" duration="27000" />
+      <workItem from="1609189587433" duration="107000" />
+      <workItem from="1609191824953" duration="8774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="193" key="RiderGenerateDialog" timestamp="1609196022521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="193" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609196022521" />
+  </component>
+</project>
